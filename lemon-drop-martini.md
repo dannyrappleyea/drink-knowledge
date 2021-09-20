@@ -1,4 +1,5 @@
-# *Cocktails* Lemon Drop Martini
+# Lemon Drop Martini
+Tasty, tart, ice-cold drink.
 
 ## Ingredients
 * 1.5 oz vodka (or lemon vokda)

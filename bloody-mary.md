@@ -1,7 +1,7 @@
-# *Cocktails* Bloody Mary
+# Bloody Mary
 
 ## Ingredients
-* 1 shot vodka
+* 1.5 oz vodka
 * 4 oz bloody mary mix
 
 ## Directions
