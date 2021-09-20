@@ -1,4 +1,4 @@
-# *Cocktails* Manhattan
+# Manhattan
 
 ## Ingredients
 * 2 oz rye whiskey
@@ -26,7 +26,7 @@
 ## Variations
 * Perfect Manhattan. Equal parts whiskey and vermouth
 * Rob Roy. Uses Scotch whiskey.
-* [Palmetto](./c76fcdb5-1493-434e-a569-f73271f30b39.md). Uses rum.
+* [Palmetto](./palmetto.md). Uses rum.
 
 ## References
 * [Perfect Manhattan cocktail | Boston.com](https://www.boston.com/food/food/2021/01/27/how-to-make-the-perfect-manhattan-cocktail)

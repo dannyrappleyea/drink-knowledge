@@ -1,4 +1,5 @@
-# *Cocktails* Intro to Aperol
+# Intro to Aperol
+Mostly an excuse to use up a bottle of Aperol.
 
 * 2 dashes Angostura
 * 3/4 oz lemon juice

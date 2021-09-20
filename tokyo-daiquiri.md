@@ -1,4 +1,5 @@
-# *Cocktails* Tokyo Daiquiri
+# Tokyo Daiquiri
+Soy sauce and fiery ginger make an interesting combination.
 
 ## Ingredients
 * 1/2 oz Fiery Ginger Syrup (Liber & Co)
