@@ -1,5 +1,4 @@
-# *Cocktails* Palmetto
-
+# Palmetto
 Basically a Manhattan with rum
 
 ## Ingredients

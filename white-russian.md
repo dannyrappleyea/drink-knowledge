@@ -1,4 +1,4 @@
-# *Cocktails* White Russian
+# White Russian
 
 ## Ingredients
 * 1 1/2 ounces vodka
