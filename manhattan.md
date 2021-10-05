@@ -28,5 +28,8 @@
 * Rob Roy. Uses Scotch whiskey.
 * [Palmetto](./palmetto.md). Uses rum.
 
+## To Try
+* [Fig Manhattan](https://www.liberandcompany.com/collections/recipes/products/fig-manhattan). Fig sounds interesting.
+
 ## References
 * [Perfect Manhattan cocktail | Boston.com](https://www.boston.com/food/food/2021/01/27/how-to-make-the-perfect-manhattan-cocktail)
