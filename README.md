@@ -26,5 +26,6 @@ My collection of cocktail recipes. It's small, but runs the gamut of classic dry
 * [Peanut Butter Cup](./peanut-butter-cup.md)
 
 # Notes
-* [Freezing Cocktails](notes/freezing-cocktails)
-* [Inexpensive liquor options](notes/inexpensive-liquor-options.md)
+* [Freezing Cocktails](./notes/freezing-cocktails)
+* [Inexpensive liquor options](./notes/inexpensive-liquor-options.md)
+* [Sour Cocktails](./notes/sour-cocktails.md)
