@@ -7,3 +7,6 @@
 * Rye whiskey: KO Distilling’s Bare Knuckle American Rye Whiskey, Sazerac Rye
 * Bourbon: Old Grand-Dad bourbon, Old Fitzgerald Prime, Weller
 * Gin: Ford’s
+
+## Links
+* [The Ultimate Guide to Gifting a ‘Good’ Bottle of Liquor](https://lifehacker.com/the-ultimate-guide-to-gifting-a-good-bottle-of-liquor-1847959884)
