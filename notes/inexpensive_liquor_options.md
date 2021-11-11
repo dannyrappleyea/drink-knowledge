@@ -9,4 +9,4 @@
 * Gin: Ford’s
 
 ## Links
-* [The Ultimate Guide to Gifting a ‘Good’ Bottle of Liquor](https://lifehacker.com/the-ultimate-guide-to-gifting-a-good-bottle-of-liquor-1847959884)
+* [The Ultimate Guide to Gifting a ‘Good’ Bottle of Liquor](https://lifehacker.com/the-ultimate-guide-to-gifting-a-good-bottle-of-liquor-1847959884). A few inexpensive liquors, groups by sipping and mixing.
