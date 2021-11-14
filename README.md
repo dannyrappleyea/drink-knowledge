@@ -29,3 +29,6 @@ My collection of cocktail recipes. It's small, but runs the gamut of classic dry
 * [Freezing Cocktails](./notes/freezing_cocktails.md)
 * [Inexpensive liquor options](./notes/inexpensive_liquor_options.md)
 * [Sour Cocktails](./notes/sour_cocktails.md)
+
+# About Notes
+These are are my cocktail notes, written using git and markdown using a system called [git-notes](https://github.com/digitalreplica/git-notes). See my other notes repos at [dannyrappleyea](https://github.com/dannyrappleyea).
