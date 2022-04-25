@@ -7,3 +7,6 @@ Quite tart. The chartreuse makes it a love-it or hate-it kind of cocktail.
 * 0.5 oz Luxardo
 * 1.5 oz gin
 * 2 cherries
+
+## Variants
+* Replace gin with (rye) whiskey, lime with lemon
