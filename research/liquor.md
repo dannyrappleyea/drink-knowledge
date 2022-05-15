@@ -10,3 +10,10 @@
 
 ## Links
 * [The Ultimate Guide to Gifting a ‘Good’ Bottle of Liquor](https://lifehacker.com/the-ultimate-guide-to-gifting-a-good-bottle-of-liquor-1847959884). A few inexpensive liquors, groups by sipping and mixing.
+
+# Dating liquor bottles
+* Many bottles have a 2-digit year stamped on the bottle
+* Tax stamps (strips over the cork) were required before 1984)
+
+[How to Date a Bottle of Alcohol | LEAFtv](https://www.leaf.tv/articles/how-to-date-a-bottle-of-alcohol/)
+

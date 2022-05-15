@@ -26,7 +26,7 @@
 ## Variations
 * Perfect Manhattan. Equal parts whiskey and vermouth
 * Rob Roy. Uses Scotch whiskey.
-* [Palmetto](./palmetto.md). Uses rum.
+* [Palmetto](palmetto.md). Uses rum.
 
 ## To Try
 * [Fig Manhattan](https://www.liberandcompany.com/collections/recipes/products/fig-manhattan). Fig sounds interesting.
