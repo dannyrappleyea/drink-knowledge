@@ -1,3 +1,11 @@
+---
+tags: a/note
+---
+in:: [[cocktail notes]]
+
+# Notes
+Looking at recipes that might be worth trying
+
 [Sake Sunrise](https://sakeone.com/cocktails/sake-sunrise/)
 - 1 Part g fifty Saké  
 - 2 Parts Pineapple Juice  

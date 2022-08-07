@@ -1,14 +1,9 @@
-# Bloody Mary
+---
+tags: a/note
+---
+in:: [[cocktail notes]]
 
-## Ingredients
-* 1.5 oz vodka
-* 4 oz bloody mary mix
-
-## Directions
-Mix and serve over ice.
-
-## Bloody Mary Mix
-### Ingredients
+# Ingredients
 * 6 oz can tomato paste
 * 24 oz water (4 cans)
 * 3 tbsp lime or lemon juice
@@ -20,11 +15,12 @@ Mix and serve over ice.
 * 1/4 tsp ghost pepper powder blend
 * 1/2 tsp minced garlic
 
-### Directions
-1. Mix in Vitamix
+# Directions
+1. Mix in Vitamix or blender
 2. Chill
 
-### Notes
+# Notes
+Tweaks
 * Like the thought of celery seed
 * Another recipe suggested paprika (or smoked paprika)
 * lime juice over lemon?
@@ -33,7 +29,7 @@ Mix and serve over ice.
 * cumin?
 * possibly olive brine
 
-## References
+# References
 [Emeril’s Bloody Mary Mix Recipe | Emeril Lagasse | Food Network](https://www.foodnetwork.com/recipes/emeril-lagasse/emerils-bloody-mary-mix-3646339)
 [Easy Homemade Bloody Mary Mix Recipe - 2021 - MasterClass](https://www.masterclass.com/articles/easy-homemade-bloody-mary-mix-recipe#homemade-bloody-mary-mix-recipe)
 [Bloody Mary Mix | Just A Pinch Recipes](https://www.justapinch.com/recipes/drink/cocktail/bloody-mary-mix.html)
