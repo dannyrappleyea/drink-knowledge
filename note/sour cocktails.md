@@ -1,5 +1,9 @@
-# Sour Cocktails
+---
+tags: a/note
+---
+in:: [[cocktail notes]]
 
+# Notes
 * [The Golden Ratio of Sour Cocktails - Runamok Maple](https://runamokmaple.com/blog/the-golden-ratio-of-sour-cocktails/)
 > A golden ratio sour cocktail must include 2 parts something alcoholic, 1 part something sour, and .75-1 part something sweet. 
 * Can use a simple syrup of 1:1 sugar and water

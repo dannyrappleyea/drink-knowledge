@@ -1,4 +1,9 @@
-# Keto Irish Cream
+---
+tags: a/note
+---
+in:: [[cocktail notes]]
+
+# Notes
 Attempt to make irish cream as keto-friendly as possible.
 
 ## Ingredients
