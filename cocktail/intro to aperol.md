@@ -1,8 +1,5 @@
----
-tags: a/cocktail
-experiment: true
----
-in:: [[cocktails]]
+is:: [[cocktail]]
+from:: 
 
 # Intro
 Mostly an excuse to use up a bottle of Aperol.

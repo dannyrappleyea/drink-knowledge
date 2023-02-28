@@ -1,8 +1,6 @@
----
-tags: a/cocktail
----
-in:: [[cocktails]]
-near:: [[manhattan]]
+is:: [[cocktail]]
+from:: [Friday Cocktail Hour: The Palmetto - Ruhlman](https://ruhlman.com/the-palmetto/)
+from:: [[manhattan]]
 
 # Intro
 Basically a Manhattan with rum
@@ -20,4 +18,4 @@ Basically a Manhattan with rum
 # Variations
 
 # References
-[Friday Cocktail Hour: The Palmetto - Ruhlman](https://ruhlman.com/the-palmetto/)
+

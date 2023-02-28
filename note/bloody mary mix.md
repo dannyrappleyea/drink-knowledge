@@ -1,7 +1,5 @@
----
-tags: a/note
----
-in:: [[cocktail notes]]
+is:: [[note]]
+from:: [[cocktail]]
 
 # Ingredients
 * 6 oz can tomato paste

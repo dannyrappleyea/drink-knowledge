@@ -1,7 +1,5 @@
----
-tags: a/note
----
-in:: [[cocktail notes]]
+is:: [[note]]
+from:: [[cocktail]]
 
 # Notes
 Attempt to make irish cream as keto-friendly as possible.

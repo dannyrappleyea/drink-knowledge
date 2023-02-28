@@ -1,7 +1,5 @@
----
-tags: a/cocktail
----
-in:: [[cocktails]]
+is:: [[cocktail]]
+from:: 
 
 # Intro
 A late afternoon drink when you can't decide on a coffee or cocktail.

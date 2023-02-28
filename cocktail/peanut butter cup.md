@@ -1,7 +1,5 @@
----
-tags: a/cocktail
----
-in:: [[cocktails]]
+is:: [[cocktail]]
+from:: 
 
 # Intro
 A sweet, decadent cocktail.

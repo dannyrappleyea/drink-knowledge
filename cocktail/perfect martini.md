@@ -1,7 +1,5 @@
----
-tags: a/cocktail
----
-in:: [[cocktails]]
+is:: [[cocktail]]
+from:: [Perfect Martini | Diffords Guide](https://www.diffordsguide.com/cocktails/recipe/1509/perfect-martini)
 
 # Intro
 Love sweet vermouth, so 
@@ -22,6 +20,3 @@ Love sweet vermouth, so
 # Variations
 - 2 oz gin, 1 1/2 dry vermouth, 3/4 sweet vermouth
 - [[navy-strength perfect martini]]
-
-# References
-- [Perfect Martini | Diffords Guide](https://www.diffordsguide.com/cocktails/recipe/1509/perfect-martini)

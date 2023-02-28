@@ -1,7 +1,5 @@
----
-tags: a/cocktail
----
-in:: [[cocktails]]
+is:: [[cocktail]]
+from:: 
 
 # Intro
 It's a healthy cocktail with lots of veggies, right?

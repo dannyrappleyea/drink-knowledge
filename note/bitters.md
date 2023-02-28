@@ -1,7 +1,5 @@
----
-tags: a/note
----
-in:: [[cocktail notes]]
+is:: [[note]]
+from:: [[cocktail]]
 
 # Notes
 ## Local

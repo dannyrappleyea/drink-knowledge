@@ -1,7 +1,5 @@
----
-tags: a/cocktail
----
-in:: [[cocktails]]
+is:: [[cocktail]]
+from:: [Bobby Burns Cocktail (Craddock’s Recipe)](https://www.diffordsguide.com/cocktails/recipe/280/bobby-burns-cocktail-craddocks-recipe)
 
 # Intro
 Similar to a [[manhattan]], but the Benedictine adds another level of complexity.
@@ -25,6 +23,3 @@ Similar to a [[manhattan]], but the Benedictine adds another level of complexity
 * Garnish with a shortbread cookie
 
 # Variations
-
-# References
-- [Bobby Burns Cocktail (Craddock’s Recipe)](https://www.diffordsguide.com/cocktails/recipe/280/bobby-burns-cocktail-craddocks-recipe)

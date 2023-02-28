@@ -1,8 +1,5 @@
----
-tags: a/note
-experiment: true
----
-in:: [[cocktails]]
+is:: [[cocktail]]
+from:: 
 
 # Intro
 Recreating the drink `Violet, You're Turning Violet` from [Aperitif](https://aperitifnc.com/). See notes for sourcing ingredients

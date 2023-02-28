@@ -1,9 +1,5 @@
----
-tags: a/cocktail
-experiment: true
----
-in:: [[cocktails]]
-near:: [[perfect martini]]
+is:: [[cocktail]]
+from:: [[perfect martini]]
 
 # Intro
 Gin seems to get lost in a perfect martini. Using navy-strength gin brings it back (perhaps even too much?)

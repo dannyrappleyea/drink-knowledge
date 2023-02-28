@@ -1,7 +1,5 @@
----
-tags: a/note
----
-in:: [[cocktail notes]]
+is:: [[note]]
+from:: [[liquor]]
 
 # Notes
 Inexpensive liquor options
@@ -13,6 +11,14 @@ Inexpensive liquor options
 * Rye whiskey: KO Distilling’s Bare Knuckle American Rye Whiskey, Sazerac Rye
 * Bourbon: Old Grand-Dad bourbon, Old Fitzgerald Prime, Weller
 * Gin: Ford’s
+
+# Research
+https://www.thespruceeats.com/best-cheap-whiskeys-4154021
+- Old Grand-Dad bourbon - best overall
+- Old Overholt - best rye
+- 2 Gingers - best blended Irish whiskey
+- Famous Grouse - best Scotch whiskey
+- Four Roses - excellent old fashioned
 
 ## Links
 * [The Ultimate Guide to Gifting a ‘Good’ Bottle of Liquor](https://lifehacker.com/the-ultimate-guide-to-gifting-a-good-bottle-of-liquor-1847959884). A few inexpensive liquors, groups by sipping and mixing.

@@ -1,7 +1,5 @@
----
-tags: a/cocktail
----
-in:: [[cocktails]]
+is:: [[cocktail]]
+from:: https://www.liberandcompany.com/collections/recipes/products/tokyo-daiquiri
 
 # Intro
 Soy sauce and fiery ginger make an interesting combination.
@@ -19,6 +17,3 @@ Soy sauce and fiery ginger make an interesting combination.
 * Makes a gingery drink, less syrup if that's too strong.
 
 # Variations
-
-# References
-* https://www.liberandcompany.com/collections/recipes/products/tokyo-daiquiri
