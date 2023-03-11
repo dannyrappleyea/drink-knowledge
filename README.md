@@ -18,7 +18,7 @@ I'm moving slowly to a Netflix-style rating system, which is a subjective measur
 rating | meaning
 --- | ---
 👎 | Don't like it
-<br/> | It's okay
+🤞 | It's okay
 👍 | Like it
 👍👍 | Love it
 
