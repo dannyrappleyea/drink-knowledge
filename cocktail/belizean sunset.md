@@ -8,7 +8,7 @@ An attempt to recreate a long-forgotten recipe from a Belizean resort.
 * 1.5 oz One Barrel Rum
 * 0.75oz Coconut rum
 * 0.75oz Cointreau or other orange liqueur
-* 2   oz pineapple juice
+* 2 oz pineapple juice
 * 0.5-1 tsp grenadine
 
 # Directions
