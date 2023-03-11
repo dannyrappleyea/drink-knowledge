@@ -23,3 +23,5 @@ rating | meaning
 👍👍 | Love it
 
 For example, I don't like many sour beers, so something that's amazing to people who like them might get a 👎 from me.
+
+I've also had to convert old 5-star ratings, so some of these might be different than I'd choose today.
