@@ -5,4 +5,4 @@ brewery:: [[Jack's Hard Cider]]
 abv:: 5.5
 
 # Log
-- [x] [[2017-07-24]] #do/drink/cider 👍
+- [x] [[2017-07]] #do/drink/cider 👍

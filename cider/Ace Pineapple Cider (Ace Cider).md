@@ -5,4 +5,4 @@ brewery:: [[Ace Cider]]
 abv:: 5
 
 # Log
-- [x] [[2015-11-19]] #do/drink/cider 👍
+- [x] [[2015-11]] #do/drink/cider 👍

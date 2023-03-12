@@ -5,4 +5,4 @@ brewery:: [[Windy Hill Orchard and Cidery]]
 abv:: 6
 
 # Log
-- [x] [[2018-08-06]] #do/drink/cider 👍
+- [x] [[2018-08]] #do/drink/cider 👍

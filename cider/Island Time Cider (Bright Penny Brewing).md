@@ -5,4 +5,4 @@ brewery:: [[Bright Penny Brewing]]
 abv:: 6
 
 # Log
-- [x] [[2022-04-02]] #do/drink/cider 👍
+- [x] [[2022-04]] #do/drink/cider 👍

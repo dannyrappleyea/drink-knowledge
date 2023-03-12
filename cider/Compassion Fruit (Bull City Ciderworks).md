@@ -5,4 +5,4 @@ brewery:: [[Bull City Ciderworks]]
 abv:: 6
 
 # Log
-- [x] [[2018-10-18]] #do/drink/cider 👍
+- [x] [[2018-10]] #do/drink/cider 👍

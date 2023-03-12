@@ -5,4 +5,4 @@ brewery:: [[Crown Valley Brewing]]
 abv:: 5
 
 # Log
-- [x] [[2019-03-01]] #do/drink/cider 👍
+- [x] [[2019-03]] #do/drink/cider 👍

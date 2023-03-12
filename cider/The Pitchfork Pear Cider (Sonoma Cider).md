@@ -5,4 +5,4 @@ brewery:: [[Sonoma Cider]]
 abv:: 6
 
 # Log
-- [x] [[2016-05-20]] #do/drink/cider 👍
+- [x] [[2016-05]] #do/drink/cider 👍

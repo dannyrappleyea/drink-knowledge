@@ -5,4 +5,4 @@ brewery:: [[Blake's Hard Cider Co]]
 abv:: 6.5
 
 # Log
-- [x] [[2016-05-04]] #do/drink/cider 👍
+- [x] [[2016-05]] #do/drink/cider 👍

@@ -5,4 +5,4 @@ brewery:: [[Original Sin ]]
 abv:: 6.7
 
 # Log
-- [x] [[2016-05-13]] #do/drink/cider 👍
+- [x] [[2016-05]] #do/drink/cider 👍

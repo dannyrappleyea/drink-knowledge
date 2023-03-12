@@ -5,4 +5,4 @@ brewery:: [[Virtue Cider]]
 abv:: 6.8
 
 # Log
-- [x] [[2017-08-15]] #do/drink/cider 🤞
+- [x] [[2017-08]] #do/drink/cider 🤞

@@ -5,4 +5,4 @@ brewery:: [[Angry Orchard Cider Company]]
 abv:: 5
 
 # Log
-- [x] [[2016-06-15]] #do/drink/cider 👍
+- [x] [[2016-06]] #do/drink/cider 👍

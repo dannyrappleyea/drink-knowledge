@@ -5,4 +5,4 @@ brewery:: [[Schilling Cider]]
 abv:: 6.6
 
 # Log
-- [x] [[2017-02-15]] #do/drink/cider 👍
+- [x] [[2017-02]] #do/drink/cider 👍
