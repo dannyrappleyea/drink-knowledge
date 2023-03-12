@@ -5,4 +5,4 @@ brewery:: [[Funky Buddha Brewery]]
 abv:: 7
 
 # Log
-- [x] [[2016-02-25]] #do/drink/beer 👍
+- [x] [[2016-02]] #do/drink/beer 👍

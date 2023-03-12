@@ -5,4 +5,4 @@ brewery:: [[Abita Brewing Company]]
 abv:: 5
 
 # Log
-- [x] [[2015-09-14]] #do/drink/beer 👎
+- [x] [[2015-09]] #do/drink/beer 👎

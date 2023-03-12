@@ -5,4 +5,4 @@ brewery:: [[Port City Brewing]]
 abv:: 8.9
 
 # Log
-- [x] [[2015-11-02]] #do/drink/beer 👍👍
+- [x] [[2015-11]] #do/drink/beer 👍👍

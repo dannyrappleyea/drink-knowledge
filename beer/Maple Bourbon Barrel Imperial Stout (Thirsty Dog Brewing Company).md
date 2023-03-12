@@ -5,4 +5,4 @@ brewery:: [[Thirsty Dog Brewing Company]]
 abv:: 10
 
 # Log
-- [x] [[2016-11-09]] #do/drink/beer 👍👍
+- [x] [[2016-11]] #do/drink/beer 👍👍

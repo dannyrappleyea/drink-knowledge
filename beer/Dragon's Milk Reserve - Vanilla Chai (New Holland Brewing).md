@@ -5,4 +5,4 @@ brewery:: [[New Holland Brewing]]
 abv:: 11
 
 # Log
-- [x] [[2016-11-20]] #do/drink/beer 👍
+- [x] [[2016-11]] #do/drink/beer 👍

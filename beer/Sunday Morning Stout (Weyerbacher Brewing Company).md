@@ -5,4 +5,4 @@ brewery:: [[Weyerbacher Brewing Company]]
 abv:: 12.7
 
 # Log
-- [x] [[2018-04-13]] #do/drink/beer 👍👍
+- [x] [[2018-04]] #do/drink/beer 👍👍

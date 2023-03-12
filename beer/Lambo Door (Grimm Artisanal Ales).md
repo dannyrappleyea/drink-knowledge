@@ -5,4 +5,4 @@ brewery:: [[Grimm Artisanal Ales]]
 abv:: 8
 
 # Log
-- [x] [[2016-03-21]] #do/drink/beer 👍👍
+- [x] [[2016-03]] #do/drink/beer 👍👍

@@ -5,4 +5,4 @@ brewery:: [[Great Divide Brewing Company]]
 abv:: 9.5
 
 # Log
-- [x] [[2016-04-11]] #do/drink/beer 👍👍
+- [x] [[2016-04]] #do/drink/beer 👍👍

@@ -5,4 +5,4 @@ brewery:: [[Westbrook Brewing Co]]
 abv:: 12.8
 
 # Log
-- [x] [[2018-10-12]] #do/drink/beer 👍👍
+- [x] [[2018-10]] #do/drink/beer 👍👍

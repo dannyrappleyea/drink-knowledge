@@ -5,4 +5,4 @@ brewery:: [[Orange Blossom Brewing Company]]
 abv:: 5.25
 
 # Log
-- [x] [[2017-02-26]] #do/drink/beer 👍
+- [x] [[2017-02]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Port Brewing Company]]
 abv:: 8
 
 # Log
-- [x] [[2016-08-29]] #do/drink/beer 👍
+- [x] [[2016-08]] #do/drink/beer 👍

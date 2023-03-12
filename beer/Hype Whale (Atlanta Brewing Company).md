@@ -5,5 +5,5 @@ brewery:: [[Atlanta Brewing Company]]
 abv:: 10
 
 # Log
-- [x] [[2016-05-30]] #do/drink/beer 👍
-- [x] [[2016-10-24]] #do/drink/beer 👍
+- [x] [[2016-05]] #do/drink/beer 👍
+- [x] [[2016-10]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Deep River Brewing Company]]
 abv:: 5.9
 
 # Log
-- [x] [[2016-01-01]] #do/drink/beer 🤞
+- [x] [[2016-01]] #do/drink/beer 🤞

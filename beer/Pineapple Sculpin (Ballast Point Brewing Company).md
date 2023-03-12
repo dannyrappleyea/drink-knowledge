@@ -5,4 +5,4 @@ brewery:: [[Ballast Point Brewing Company]]
 abv:: 7
 
 # Log
-- [x] [[2017-03-08]] #do/drink/beer 👍
+- [x] [[2017-03]] #do/drink/beer 👍

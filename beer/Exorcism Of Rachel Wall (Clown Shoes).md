@@ -5,4 +5,4 @@ brewery:: [[Clown Shoes]]
 abv:: 11.5
 
 # Log
-- [x] [[2017-03-20]] #do/drink/beer 👍👍
+- [x] [[2017-03]] #do/drink/beer 👍👍

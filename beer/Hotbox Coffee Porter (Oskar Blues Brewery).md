@@ -5,4 +5,4 @@ brewery:: [[Oskar Blues Brewery]]
 abv:: 6.5
 
 # Log
-- [x] [[2016-10-14]] #do/drink/beer 👍
+- [x] [[2016-10]] #do/drink/beer 👍

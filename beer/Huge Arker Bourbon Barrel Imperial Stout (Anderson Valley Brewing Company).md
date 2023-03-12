@@ -5,4 +5,4 @@ brewery:: [[Anderson Valley Brewing Company]]
 abv:: 15.5
 
 # Log
-- [x] [[2016-06-27]] #do/drink/beer 👍
+- [x] [[2016-06]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Half Acre Beer Company]]
 abv:: 7.1
 
 # Log
-- [x] [[2016-04-25]] #do/drink/beer 👍
+- [x] [[2016-04]] #do/drink/beer 👍

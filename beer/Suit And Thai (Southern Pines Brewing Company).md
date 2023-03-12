@@ -5,4 +5,4 @@ brewery:: [[Southern Pines Brewing Company]]
 abv:: 6.4
 
 # Log
-- [x] [[2017-03-31]] #do/drink/beer 👍👍
+- [x] [[2017-03]] #do/drink/beer 👍👍

@@ -5,4 +5,4 @@ brewery:: [[NoDa Brewing Company]]
 abv:: 7.2
 
 # Log
-- [x] [[2016-05-06]] #do/drink/beer 👍
+- [x] [[2016-05]] #do/drink/beer 👍

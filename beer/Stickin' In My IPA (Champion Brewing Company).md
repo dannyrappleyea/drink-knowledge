@@ -5,4 +5,4 @@ brewery:: [[Champion Brewing Company]]
 abv:: 7
 
 # Log
-- [x] [[2015-09-18]] #do/drink/beer 👍
+- [x] [[2015-09]] #do/drink/beer 👍

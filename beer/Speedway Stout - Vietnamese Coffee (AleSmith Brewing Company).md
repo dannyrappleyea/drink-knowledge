@@ -5,4 +5,4 @@ brewery:: [[AleSmith Brewing Company]]
 abv:: 12
 
 # Log
-- [x] [[2015-11-05]] #do/drink/beer 👍👍
+- [x] [[2015-11]] #do/drink/beer 👍👍

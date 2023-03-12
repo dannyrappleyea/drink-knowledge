@@ -5,4 +5,4 @@ brewery:: [[Southern Tier Brewing Company]]
 abv:: 10
 
 # Log
-- [x] [[2016-06-24]] #do/drink/beer 👍👍
+- [x] [[2016-06]] #do/drink/beer 👍👍

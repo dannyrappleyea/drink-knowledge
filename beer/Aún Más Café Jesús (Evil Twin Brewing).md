@@ -5,4 +5,4 @@ brewery:: [[Evil Twin Brewing]]
 abv:: 12
 
 # Log
-- [x] [[2016-03-25]] #do/drink/beer 👍👍
+- [x] [[2016-03]] #do/drink/beer 👍👍

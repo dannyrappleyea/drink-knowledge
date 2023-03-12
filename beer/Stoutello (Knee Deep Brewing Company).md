@@ -5,4 +5,4 @@ brewery:: [[Knee Deep Brewing Company]]
 abv:: 6
 
 # Log
-- [x] [[2018-11-05]] #do/drink/beer 👍
+- [x] [[2018-11]] #do/drink/beer 👍

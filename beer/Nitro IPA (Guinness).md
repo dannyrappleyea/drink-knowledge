@@ -5,4 +5,4 @@ brewery:: [[Guinness]]
 abv:: 5.8
 
 # Log
-- [x] [[2015-10-15]] #do/drink/beer 👎
+- [x] [[2015-10]] #do/drink/beer 👎

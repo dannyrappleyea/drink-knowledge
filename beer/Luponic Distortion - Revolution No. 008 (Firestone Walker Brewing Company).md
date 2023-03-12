@@ -5,4 +5,4 @@ brewery:: [[Firestone Walker Brewing Company]]
 abv:: 5.9
 
 # Log
-- [x] [[2018-03-14]] #do/drink/beer 👍
+- [x] [[2018-03]] #do/drink/beer 👍

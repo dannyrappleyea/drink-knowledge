@@ -5,4 +5,4 @@ brewery:: [[Highland Brewing Company]]
 abv:: 5
 
 # Log
-- [x] [[2015-12-11]] #do/drink/beer 👍
+- [x] [[2015-12]] #do/drink/beer 👍

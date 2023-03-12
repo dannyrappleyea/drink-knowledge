@@ -5,4 +5,4 @@ brewery:: [[Mother Earth Brewing]]
 abv:: 8.7
 
 # Log
-- [x] [[2016-05-28]] #do/drink/beer 👍
+- [x] [[2016-05]] #do/drink/beer 👍

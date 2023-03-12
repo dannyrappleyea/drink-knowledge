@@ -5,4 +5,4 @@ brewery:: [[Tenaya Creek Brewery]]
 abv:: 5.7
 
 # Log
-- [x] [[2016-08-05]] #do/drink/beer 👍
+- [x] [[2016-08]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Youse Guys]]
 abv:: 5.2
 
 # Log
-- [x] [[2022-07-31]] #do/drink/beer 👍
+- [x] [[2022-07]] #do/drink/beer 👍

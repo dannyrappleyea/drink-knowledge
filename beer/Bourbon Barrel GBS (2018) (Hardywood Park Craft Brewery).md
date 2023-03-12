@@ -5,4 +5,4 @@ brewery:: [[Hardywood Park Craft Brewery]]
 abv:: 11.5
 
 # Log
-- [x] [[2019-01-18]] #do/drink/beer 👍
+- [x] [[2019-01]] #do/drink/beer 👍

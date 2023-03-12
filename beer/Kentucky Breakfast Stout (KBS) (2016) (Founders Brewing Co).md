@@ -5,4 +5,4 @@ brewery:: [[Founders Brewing Co]]
 abv:: 12.4
 
 # Log
-- [x] [[2016-04-11]] #do/drink/beer 👍👍
+- [x] [[2016-04]] #do/drink/beer 👍👍

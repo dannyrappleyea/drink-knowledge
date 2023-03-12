@@ -5,4 +5,4 @@ brewery:: [[Boulevard Brewing Co]]
 abv:: 13.3
 
 # Log
-- [x] [[2022-02-18]] #do/drink/beer 👍👍
+- [x] [[2022-02]] #do/drink/beer 👍👍

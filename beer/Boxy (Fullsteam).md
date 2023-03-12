@@ -7,4 +7,4 @@ abv:: 8.3
 - Honey IPA
 
 # Log
-- [x] [[2022-09-16]] #do/drink/beer 🤞
+- [x] [[2022-09]] #do/drink/beer 🤞

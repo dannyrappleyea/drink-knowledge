@@ -5,4 +5,4 @@ brewery:: [[Lough Gill Brewery]]
 abv:: 6
 
 # Log
-- [x] [[2018-08-18]] #do/drink/beer 👍
+- [x] [[2018-08]] #do/drink/beer 👍

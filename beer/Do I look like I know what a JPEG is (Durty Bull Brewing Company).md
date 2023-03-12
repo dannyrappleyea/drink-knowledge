@@ -4,4 +4,4 @@ brewery:: [[Durty Bull Brewing Company]]
 abv:: 7.4
 
 # Log
-- [x] [[2022-07-30]] #do/drink/beer 👍
+- [x] [[2022-07]] #do/drink/beer 👍

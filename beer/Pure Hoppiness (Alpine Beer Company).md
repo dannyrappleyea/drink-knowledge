@@ -5,4 +5,4 @@ brewery:: [[Alpine Beer Company]]
 abv:: 8
 
 # Log
-- [x] [[2015-11-27]] #do/drink/beer 👍
+- [x] [[2015-11]] #do/drink/beer 👍

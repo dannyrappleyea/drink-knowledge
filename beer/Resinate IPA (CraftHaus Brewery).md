@@ -5,4 +5,4 @@ brewery:: [[CraftHaus Brewery]]
 abv:: 6.5
 
 # Log
-- [x] [[2018-03-17]] #do/drink/beer 👍
+- [x] [[2018-03]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Foothills Brewing]]
 abv:: 7
 
 # Log
-- [x] [[2016-01-15]] #do/drink/beer 👍
+- [x] [[2016-01]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Starpoint Brewing]]
 abv:: 5.5
 
 # Log
-- [x] [[2018-02-23]] #do/drink/beer 👍
+- [x] [[2018-02]] #do/drink/beer 👍

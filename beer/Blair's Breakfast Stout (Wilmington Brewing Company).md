@@ -5,4 +5,4 @@ brewery:: [[Wilmington Brewing Company]]
 abv:: 7
 
 # Log
-- [x] [[2017-07-28]] #do/drink/beer 👍
+- [x] [[2017-07]] #do/drink/beer 👍

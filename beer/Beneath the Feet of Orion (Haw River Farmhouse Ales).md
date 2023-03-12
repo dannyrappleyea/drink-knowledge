@@ -5,4 +5,4 @@ brewery:: [[Haw River Farmhouse Ales]]
 abv:: 8.2
 
 # Log
-- [x] [[2017-03-10]] #do/drink/beer 👍
+- [x] [[2017-03]] #do/drink/beer 👍

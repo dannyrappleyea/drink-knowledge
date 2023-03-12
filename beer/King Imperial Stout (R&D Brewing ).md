@@ -5,4 +5,4 @@ brewery:: [[R&D Brewing ]]
 abv:: 10
 
 # Log
-- [x] [[2018-02-16]] #do/drink/beer 👍👍
+- [x] [[2018-02]] #do/drink/beer 👍👍

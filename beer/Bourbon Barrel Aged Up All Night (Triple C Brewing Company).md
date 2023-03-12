@@ -5,4 +5,4 @@ brewery:: [[Triple C Brewing Company]]
 abv:: 10
 
 # Log
-- [x] [[2015-12-27]] #do/drink/beer 👍👍
+- [x] [[2015-12]] #do/drink/beer 👍👍

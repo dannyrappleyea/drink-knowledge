@@ -5,4 +5,4 @@ brewery:: [[Captain Lawrence Brewing Company]]
 abv:: 6
 
 # Log
-- [x] [[2021-10-01]] #do/drink/beer 🤞
+- [x] [[2021-10]] #do/drink/beer 🤞

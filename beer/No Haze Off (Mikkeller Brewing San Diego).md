@@ -5,4 +5,4 @@ brewery:: [[Mikkeller Brewing San Diego]]
 abv:: 9
 
 # Log
-- [x] [[2017-06-30]] #do/drink/beer 👍👍
+- [x] [[2017-06]] #do/drink/beer 👍👍

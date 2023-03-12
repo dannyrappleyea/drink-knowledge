@@ -5,4 +5,4 @@ brewery:: [[Tröegs Independent Brewing]]
 abv:: 6.2
 
 # Log
-- [x] [[2017-06-05]] #do/drink/beer 👍
+- [x] [[2017-06]] #do/drink/beer 👍

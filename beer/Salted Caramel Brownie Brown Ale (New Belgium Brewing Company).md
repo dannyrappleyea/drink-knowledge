@@ -5,4 +5,4 @@ brewery:: [[New Belgium Brewing Company]]
 abv:: 6.3
 
 # Log
-- [x] [[2015-11-18]] #do/drink/beer 🤞
+- [x] [[2015-11]] #do/drink/beer 🤞

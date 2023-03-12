@@ -5,4 +5,4 @@ brewery:: [[Southern Tier Brewing Company]]
 abv:: 8.6
 
 # Log
-- [x] [[2018-12-17]] #do/drink/beer 👍
+- [x] [[2018-12]] #do/drink/beer 👍

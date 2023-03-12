@@ -5,4 +5,4 @@ brewery:: [[Compass Rose Brewery]]
 abv:: 6.3
 
 # Log
-- [x] [[2018-07-19]] #do/drink/beer 👍
+- [x] [[2018-07]] #do/drink/beer 👍

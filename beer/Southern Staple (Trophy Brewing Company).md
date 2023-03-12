@@ -5,4 +5,4 @@ brewery:: [[Trophy Brewing Company]]
 abv:: 9
 
 # Log
-- [x] [[2016-02-12]] #do/drink/beer 👍
+- [x] [[2016-02]] #do/drink/beer 👍

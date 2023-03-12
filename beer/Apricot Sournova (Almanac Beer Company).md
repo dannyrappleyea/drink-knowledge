@@ -5,4 +5,4 @@ brewery:: [[Almanac Beer Company]]
 abv:: 5.6
 
 # Log
-- [x] [[2022-03-10]] #do/drink/beer 👍
+- [x] [[2022-03]] #do/drink/beer 👍

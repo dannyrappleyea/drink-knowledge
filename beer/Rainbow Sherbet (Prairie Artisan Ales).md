@@ -5,4 +5,4 @@ brewery:: [[Prairie Artisan Ales]]
 abv:: 5.2
 
 # Log
-- [x] [[2022-05-28]] #do/drink/beer 👍 at [[Boxcar]]
+- [x] [[2022-05]] #do/drink/beer 👍 at [[Boxcar]]

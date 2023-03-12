@@ -5,4 +5,4 @@ brewery:: [[21st Amendment Brewery]]
 abv:: 8.3
 
 # Log
-- [x] [[2016-04-11]] #do/drink/beer 👍
+- [x] [[2016-04]] #do/drink/beer 👍

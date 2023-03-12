@@ -5,4 +5,4 @@ brewery:: [[Olde Hickory Brewery]]
 abv:: 10
 
 # Log
-- [x] [[2015-12-09]] #do/drink/beer 👍
+- [x] [[2015-12]] #do/drink/beer 👍

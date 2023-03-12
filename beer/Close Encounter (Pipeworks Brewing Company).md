@@ -5,4 +5,4 @@ brewery:: [[Pipeworks Brewing Company]]
 abv:: 6
 
 # Log
-- [x] [[2016-04-23]] #do/drink/beer 👍
+- [x] [[2016-04]] #do/drink/beer 👍

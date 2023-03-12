@@ -5,4 +5,4 @@ brewery:: [[Carolina Brewing Company]]
 abv:: 9.5
 
 # Log
-- [x] [[2016-03-02]] #do/drink/beer 👍
+- [x] [[2016-03]] #do/drink/beer 👍

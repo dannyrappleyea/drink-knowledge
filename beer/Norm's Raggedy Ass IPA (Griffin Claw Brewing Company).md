@@ -5,4 +5,4 @@ brewery:: [[Griffin Claw Brewing Company]]
 abv:: 7.2
 
 # Log
-- [x] [[2016-08-03]] #do/drink/beer 👍
+- [x] [[2016-08]] #do/drink/beer 👍

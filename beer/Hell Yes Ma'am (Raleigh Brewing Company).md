@@ -5,4 +5,4 @@ brewery:: [[Raleigh Brewing Company]]
 abv:: 9.2
 
 # Log
-- [x] [[2017-09-01]] #do/drink/beer 🤞
+- [x] [[2017-09]] #do/drink/beer 🤞

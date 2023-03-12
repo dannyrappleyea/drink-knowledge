@@ -5,4 +5,4 @@ brewery:: [[Epic Brewing Co]]
 abv:: 5.5
 
 # Log
-- [x] [[2021-10-04]] #do/drink/beer 🤞
+- [x] [[2021-10]] #do/drink/beer 🤞

@@ -5,4 +5,4 @@ brewery:: [[Ass Clown Brewing Company]]
 abv:: 6.8
 
 # Log
-- [x] [[2017-08-04]] #do/drink/beer 👍
+- [x] [[2017-08]] #do/drink/beer 👍

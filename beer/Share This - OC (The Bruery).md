@@ -5,4 +5,4 @@ brewery:: [[The Bruery]]
 abv:: 11
 
 # Log
-- [x] [[2017-06-09]] #do/drink/beer 👍
+- [x] [[2017-06]] #do/drink/beer 👍

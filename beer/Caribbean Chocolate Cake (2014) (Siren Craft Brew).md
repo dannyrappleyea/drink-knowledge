@@ -5,4 +5,4 @@ brewery:: [[Siren Craft Brew]]
 abv:: 7.4
 
 # Log
-- [x] [[2016-08-24]] #do/drink/beer 👍
+- [x] [[2016-08]] #do/drink/beer 👍

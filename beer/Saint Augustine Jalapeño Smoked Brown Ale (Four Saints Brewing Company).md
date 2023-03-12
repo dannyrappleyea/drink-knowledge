@@ -5,4 +5,4 @@ brewery:: [[Four Saints Brewing Company]]
 abv:: 5.3
 
 # Log
-- [x] [[2015-11-19]] #do/drink/beer 👍
+- [x] [[2015-11]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[The Glass Jug Beer Lab]]
 abv:: 10.5
 
 # Log
-- [x] [[2022-02-13]] #do/drink/beer 👍
+- [x] [[2022-02]] #do/drink/beer 👍

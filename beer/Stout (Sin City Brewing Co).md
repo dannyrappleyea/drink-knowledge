@@ -5,4 +5,4 @@ brewery:: [[Sin City Brewing Co]]
 abv:: 6
 
 # Log
-- [x] [[2016-08-05]] #do/drink/beer 👍
+- [x] [[2016-08]] #do/drink/beer 👍

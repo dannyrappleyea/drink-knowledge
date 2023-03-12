@@ -5,4 +5,4 @@ brewery:: [[Saranac Brewery]]
 abv:: 5.9
 
 # Log
-- [x] [[2016-07-25]] #do/drink/beer 👍
+- [x] [[2016-07]] #do/drink/beer 👍

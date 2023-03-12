@@ -5,4 +5,4 @@ brewery:: [[Ponysaurus Brewing Co.]]
 abv:: 7
 
 # Log
-- [x] [[2015-12-03]] #do/drink/beer 🤞
+- [x] [[2015-12]] #do/drink/beer 🤞

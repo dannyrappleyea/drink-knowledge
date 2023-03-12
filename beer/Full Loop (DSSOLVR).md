@@ -5,4 +5,4 @@ brewery:: [[DSSOLVR]]
 abv:: 5
 
 # Log
-- [x] [[2022-02-19]] #do/drink/beer 👍
+- [x] [[2022-02]] #do/drink/beer 👍

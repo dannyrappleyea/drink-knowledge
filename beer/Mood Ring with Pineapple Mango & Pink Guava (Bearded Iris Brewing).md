@@ -5,4 +5,4 @@ brewery:: [[Bearded Iris Brewing]]
 abv:: 8.5
 
 # Log
-- [x] [[2021-09-18]] #do/drink/beer 👍
+- [x] [[2021-09]] #do/drink/beer 👍

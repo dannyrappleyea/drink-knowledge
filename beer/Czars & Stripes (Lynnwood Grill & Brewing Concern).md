@@ -5,4 +5,4 @@ brewery:: [[Lynnwood Grill & Brewing Concern]]
 abv:: 8.75
 
 # Log
-- [x] [[2016-10-03]] #do/drink/beer 👍
+- [x] [[2016-10]] #do/drink/beer 👍

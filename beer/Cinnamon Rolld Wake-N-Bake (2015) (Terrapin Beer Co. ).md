@@ -5,4 +5,4 @@ brewery:: [[Terrapin Beer Co. ]]
 abv:: 9.4
 
 # Log
-- [x] [[2015-12-29]] #do/drink/beer 👍👍
+- [x] [[2015-12]] #do/drink/beer 👍👍

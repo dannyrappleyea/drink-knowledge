@@ -5,4 +5,4 @@ brewery:: [[Captain Lawrence Brewing Company]]
 abv:: 5.9
 
 # Log
-- [x] [[2018-05-11]] #do/drink/beer 👍
+- [x] [[2018-05]] #do/drink/beer 👍

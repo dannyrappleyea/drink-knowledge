@@ -5,5 +5,5 @@ brewery:: [[Ballast Point Brewing Company]]
 abv:: 10
 
 # Log
-- [x] [[2015-09-24]] #do/drink/beer 👍👍
-- [x] [[2016-05-23]] #do/drink/beer 👍👍
+- [x] [[2015-09]] #do/drink/beer 👍👍
+- [x] [[2016-05]] #do/drink/beer 👍👍

@@ -5,4 +5,4 @@ brewery:: [[Maine Beer Company]]
 abv:: 7
 
 # Log
-- [x] [[2016-09-13]] #do/drink/beer 👍👍
+- [x] [[2016-09]] #do/drink/beer 👍👍

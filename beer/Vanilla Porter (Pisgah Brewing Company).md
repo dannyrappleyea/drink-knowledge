@@ -5,4 +5,4 @@ brewery:: [[Pisgah Brewing Company]]
 abv:: 6.5
 
 # Log
-- [x] [[2016-04-25]] #do/drink/beer 👍
+- [x] [[2016-04]] #do/drink/beer 👍

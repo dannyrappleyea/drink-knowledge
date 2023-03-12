@@ -5,4 +5,4 @@ brewery:: [[Surly Brewing Company]]
 abv:: 7.2
 
 # Log
-- [x] [[2016-07-19]] #do/drink/beer 👍
+- [x] [[2016-07]] #do/drink/beer 👍

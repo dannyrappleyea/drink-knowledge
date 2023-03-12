@@ -5,4 +5,4 @@ brewery:: [[Gnarly Barley Brewing]]
 abv:: 6
 
 # Log
-- [x] [[2020-02-02]] #do/drink/beer 👍
+- [x] [[2020-02]] #do/drink/beer 👍

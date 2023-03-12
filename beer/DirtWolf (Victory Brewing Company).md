@@ -5,4 +5,4 @@ brewery:: [[Victory Brewing Company]]
 abv:: 8.7
 
 # Log
-- [x] [[2016-02-03]] #do/drink/beer 👍
+- [x] [[2016-02]] #do/drink/beer 👍

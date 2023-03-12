@@ -5,4 +5,4 @@ brewery:: [[3 Floyds Brewing]]
 abv:: 5.6
 
 # Log
-- [x] [[2016-07-19]] #do/drink/beer 👍
+- [x] [[2016-07]] #do/drink/beer 👍

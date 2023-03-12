@@ -5,4 +5,4 @@ brewery:: [[Commonwealth Brewing Company]]
 abv:: 10.2
 
 # Log
-- [x] [[2019-08-30]] #do/drink/beer 👍
+- [x] [[2019-08]] #do/drink/beer 👍

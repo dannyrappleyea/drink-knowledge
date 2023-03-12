@@ -5,4 +5,4 @@ brewery:: [[Revolution Brewing Company]]
 abv:: 6.8
 
 # Log
-- [x] [[2016-03-09]] #do/drink/beer 👍
+- [x] [[2016-03]] #do/drink/beer 👍

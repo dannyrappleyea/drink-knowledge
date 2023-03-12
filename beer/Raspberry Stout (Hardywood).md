@@ -8,4 +8,4 @@ abv:: 9.3
 - Says bourbon barrel, but didn't taste it
 
 # Log
-- [x] [[2022-09-16]] #do/drink/beer 👍
+- [x] [[2022-09]] #do/drink/beer 👍

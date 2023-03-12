@@ -5,4 +5,4 @@ brewery:: [[Deschutes Brewery]]
 abv:: 13.6
 
 # Log
-- [x] [[2018-08-06]] #do/drink/beer 👍👍
+- [x] [[2018-08]] #do/drink/beer 👍👍

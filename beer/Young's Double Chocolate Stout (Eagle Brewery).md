@@ -5,4 +5,4 @@ brewery:: [[Eagle Brewery]]
 abv:: 5.2
 
 # Log
-- [x] [[2015-12-07]] #do/drink/beer 👍
+- [x] [[2015-12]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Assawoman Bay Brewing Company]]
 abv:: 6.83
 
 # Log
-- [x] [[2015-09-24]] #do/drink/beer 👍
+- [x] [[2015-09]] #do/drink/beer 👍

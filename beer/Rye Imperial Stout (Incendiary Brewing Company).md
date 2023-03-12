@@ -5,4 +5,4 @@ brewery:: [[Incendiary Brewing Company]]
 abv:: 13.6
 
 # Log
-- [x] [[2022-02-27]] #do/drink/beer 👍👍
+- [x] [[2022-02]] #do/drink/beer 👍👍

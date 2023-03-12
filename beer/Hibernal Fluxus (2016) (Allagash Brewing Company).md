@@ -5,4 +5,4 @@ brewery:: [[Allagash Brewing Company]]
 abv:: 8
 
 # Log
-- [x] [[2017-02-06]] #do/drink/beer 👍
+- [x] [[2017-02]] #do/drink/beer 👍

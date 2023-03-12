@@ -5,4 +5,4 @@ brewery:: [[Bull City Burger and Brewery]]
 abv:: 10
 
 # Log
-- [x] [[2016-03-11]] #do/drink/beer 👍👍
+- [x] [[2016-03]] #do/drink/beer 👍👍

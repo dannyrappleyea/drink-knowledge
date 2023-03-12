@@ -5,4 +5,4 @@ brewery:: [[Wise Man Brewing]]
 abv:: 4.2
 
 # Log
-- [x] [[2022-03-18]] #do/drink/beer 👍
+- [x] [[2022-03]] #do/drink/beer 👍

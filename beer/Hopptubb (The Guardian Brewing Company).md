@@ -5,4 +5,4 @@ brewery:: [[The Guardian Brewing Company]]
 abv:: 5.75
 
 # Log
-- [x] [[2018-07-28]] #do/drink/beer 👍
+- [x] [[2018-07]] #do/drink/beer 👍

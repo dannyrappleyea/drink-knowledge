@@ -5,4 +5,4 @@ brewery:: [[Fullsteam]]
 abv:: 10.9
 
 # Log
-- [x] [[2022-02-17]] #do/drink/beer 👍
+- [x] [[2022-02]] #do/drink/beer 👍

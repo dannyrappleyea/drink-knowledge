@@ -5,4 +5,4 @@ brewery:: [[Wicked Weed Brewing]]
 abv:: 5.2
 
 # Log
-- [x] [[2015-12-15]] #do/drink/beer 👍
+- [x] [[2015-12]] #do/drink/beer 👍

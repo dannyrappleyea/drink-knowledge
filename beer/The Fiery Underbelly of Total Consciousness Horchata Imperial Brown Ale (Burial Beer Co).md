@@ -5,4 +5,4 @@ brewery:: [[Burial Beer Co.]]
 abv:: 8
 
 # Log
-- [x] [[2018-03-05]] #do/drink/beer 👍👍
+- [x] [[2018-03]] #do/drink/beer 👍👍

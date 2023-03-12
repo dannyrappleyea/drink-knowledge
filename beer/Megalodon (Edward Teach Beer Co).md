@@ -4,4 +4,4 @@ brewery:: [[Edward Teach Beer Co]]
 abv:: 
 
 # Log
-- [x] [[2022-06-18]] #do/drink/beer 👍
+- [x] [[2022-06]] #do/drink/beer 👍

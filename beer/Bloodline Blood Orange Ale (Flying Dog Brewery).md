@@ -5,4 +5,4 @@ brewery:: [[Flying Dog Brewery]]
 abv:: 8
 
 # Log
-- [x] [[2015-12-14]] #do/drink/beer 👍
+- [x] [[2015-12]] #do/drink/beer 👍

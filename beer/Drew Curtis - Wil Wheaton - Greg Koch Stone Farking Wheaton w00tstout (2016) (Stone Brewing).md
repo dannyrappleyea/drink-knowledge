@@ -5,4 +5,4 @@ brewery:: [[Stone Brewing]]
 abv:: 13
 
 # Log
-- [x] [[2017-09-06]] #do/drink/beer 👍👍
+- [x] [[2017-09]] #do/drink/beer 👍👍

@@ -5,4 +5,4 @@ brewery:: [[New Anthem Beer Project]]
 abv:: 9.5
 
 # Log
-- [x] [[2022-02-22]] #do/drink/beer 👍
+- [x] [[2022-02]] #do/drink/beer 👍

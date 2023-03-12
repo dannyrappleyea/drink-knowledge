@@ -5,4 +5,4 @@ brewery:: [[R&D Brewing]]
 abv:: 5.7
 
 # Log
-- [x] [[2022-03-04]] #do/drink/beer 👍
+- [x] [[2022-03]] #do/drink/beer 👍

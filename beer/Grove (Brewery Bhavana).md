@@ -5,4 +5,4 @@ brewery:: [[Brewery Bhavana]]
 abv:: 8
 
 # Log
-- [x] [[2018-04-06]] #do/drink/beer 🤞
+- [x] [[2018-04]] #do/drink/beer 🤞

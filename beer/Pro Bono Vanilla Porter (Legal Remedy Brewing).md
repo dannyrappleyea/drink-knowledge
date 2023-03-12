@@ -5,4 +5,4 @@ brewery:: [[Legal Remedy Brewing]]
 abv:: 9
 
 # Log
-- [x] [[2018-09-10]] #do/drink/beer 👍
+- [x] [[2018-09]] #do/drink/beer 👍

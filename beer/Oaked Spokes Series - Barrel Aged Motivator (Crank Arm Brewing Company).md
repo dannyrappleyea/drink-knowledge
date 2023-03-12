@@ -5,4 +5,4 @@ brewery:: [[Crank Arm Brewing Company]]
 abv:: 8.6
 
 # Log
-- [x] [[2018-02-07]] #do/drink/beer 👍
+- [x] [[2018-02]] #do/drink/beer 👍

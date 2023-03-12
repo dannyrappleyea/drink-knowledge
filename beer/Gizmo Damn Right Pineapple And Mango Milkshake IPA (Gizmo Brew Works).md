@@ -5,4 +5,4 @@ brewery:: [[Gizmo Brew Works]]
 abv:: 8
 
 # Log
-- [x] [[2022-04-30]] #do/drink/beer 👍
+- [x] [[2022-04]] #do/drink/beer 👍

@@ -7,4 +7,4 @@ abv:: 9.4
 - Coffee porter
 
 # Log
-- [x] [[2022-07-31]] #do/drink/beer 👍
+- [x] [[2022-07]] #do/drink/beer 👍

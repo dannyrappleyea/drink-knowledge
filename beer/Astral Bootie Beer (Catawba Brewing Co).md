@@ -5,4 +5,4 @@ brewery:: [[Catawba Brewing Co]]
 abv:: 4.5
 
 # Log
-- [x] [[2016-08-17]] #do/drink/beer 👍
+- [x] [[2016-08]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Green Flash Brewing Company]]
 abv:: 8.8
 
 # Log
-- [x] [[2015-11-13]] #do/drink/beer 👍👍
+- [x] [[2015-11]] #do/drink/beer 👍👍

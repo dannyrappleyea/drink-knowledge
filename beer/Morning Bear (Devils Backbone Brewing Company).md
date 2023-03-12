@@ -5,4 +5,4 @@ brewery:: [[Devils Backbone Brewing Company]]
 abv:: 11
 
 # Log
-- [x] [[2017-07-09]] #do/drink/beer 👍
+- [x] [[2017-07]] #do/drink/beer 👍

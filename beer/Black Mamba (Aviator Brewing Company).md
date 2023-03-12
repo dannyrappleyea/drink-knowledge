@@ -5,4 +5,4 @@ brewery:: [[Aviator Brewing Company]]
 abv:: 6.5
 
 # Log
-- [x] [[2016-09-02]] #do/drink/beer 👍
+- [x] [[2016-09]] #do/drink/beer 👍

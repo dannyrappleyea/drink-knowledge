@@ -5,4 +5,4 @@ brewery:: [[Casita Brewing Company]]
 abv:: 5.5
 
 # Log
-- [x] [[2022-02-21]] #do/drink/beer 👍
+- [x] [[2022-02]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[To Øl]]
 abv:: 12.2
 
 # Log
-- [x] [[2016-09-28]] #do/drink/beer 👍👍
+- [x] [[2016-09]] #do/drink/beer 👍👍

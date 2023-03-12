@@ -4,4 +4,4 @@ brewery:: [[Front Street Brewery]]
 abv:: 
 
 # Log
-- [x] [[2022-06-17]] #do/drink/beer 👍
+- [x] [[2022-06]] #do/drink/beer 👍

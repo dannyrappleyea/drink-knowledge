@@ -5,4 +5,4 @@ brewery:: [[Interval Brewing]]
 abv:: 11
 
 # Log
-- [x] [[2022-02-25]] #do/drink/beer 👍
+- [x] [[2022-02]] #do/drink/beer 👍

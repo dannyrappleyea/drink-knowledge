@@ -5,4 +5,4 @@ brewery:: [[Avery Brewing Co]]
 abv:: 6.3
 
 # Log
-- [x] [[2016-02-11]] #do/drink/beer 👍
+- [x] [[2016-02]] #do/drink/beer 👍

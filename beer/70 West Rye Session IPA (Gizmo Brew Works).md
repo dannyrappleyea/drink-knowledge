@@ -5,4 +5,4 @@ brewery:: [[Gizmo Brew Works]]
 abv:: 5
 
 # Log
-- [x] [[2016-06-15]] #do/drink/beer 👍
+- [x] [[2016-06]] #do/drink/beer 👍

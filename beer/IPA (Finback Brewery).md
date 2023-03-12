@@ -5,4 +5,4 @@ brewery:: [[Finback Brewery]]
 abv:: 6.8
 
 # Log
-- [x] [[2017-09-12]] #do/drink/beer 👍
+- [x] [[2017-09]] #do/drink/beer 👍

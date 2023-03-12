@@ -5,4 +5,4 @@ brewery:: [[SweetWater Brewing Company]]
 abv:: 7.5
 
 # Log
-- [x] [[2017-08-30]] #do/drink/beer 👍
+- [x] [[2017-08]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Stillwater Artisanal]]
 abv:: 6
 
 # Log
-- [x] [[2016-06-26]] #do/drink/beer 👍
+- [x] [[2016-06]] #do/drink/beer 👍

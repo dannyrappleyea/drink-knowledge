@@ -5,4 +5,4 @@ brewery:: [[Newgrass Brewing Co]]
 abv:: 6
 
 # Log
-- [x] [[2022-04-16]] #do/drink/beer 👍
+- [x] [[2022-04]] #do/drink/beer 👍

@@ -5,4 +5,4 @@ brewery:: [[Brewery Bhavana]]
 abv:: 4.5
 
 # Log
-- [x] [[2019-03-29]] #do/drink/beer 👍
+- [x] [[2019-03]] #do/drink/beer 👍

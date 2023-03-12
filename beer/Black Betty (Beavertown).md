@@ -5,4 +5,4 @@ brewery:: [[Beavertown]]
 abv:: 7.4
 
 # Log
-- [x] [[2017-08-20]] #do/drink/beer 👍
+- [x] [[2017-08]] #do/drink/beer 👍

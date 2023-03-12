@@ -5,4 +5,4 @@ brewery:: [[Brewery Ommegang]]
 abv:: 7.7
 
 # Log
-- [x] [[2015-09-03]] #do/drink/beer 🤞
+- [x] [[2015-09]] #do/drink/beer 🤞

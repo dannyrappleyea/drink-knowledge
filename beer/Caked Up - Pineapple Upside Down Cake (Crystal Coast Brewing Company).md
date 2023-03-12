@@ -4,4 +4,4 @@ brewery:: [[Crystal Coast Brewing Company]]
 abv:: 6
 
 # Log
-- [x] [[2022-08-01]] #do/drink/beer 🤞
+- [x] [[2022-08]] #do/drink/beer 🤞

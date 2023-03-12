@@ -5,4 +5,4 @@ brewery:: [[Clouds Brewing]]
 abv:: 6.3
 
 # Log
-- [x] [[2018-06-01]] #do/drink/beer 👍
+- [x] [[2018-06]] #do/drink/beer 👍

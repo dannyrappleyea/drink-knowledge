@@ -5,4 +5,4 @@ brewery:: [[Shipyard Brewing Company]]
 abv:: 4.8
 
 # Log
-- [x] [[2016-02-21]] #do/drink/beer 👍
+- [x] [[2016-02]] #do/drink/beer 👍

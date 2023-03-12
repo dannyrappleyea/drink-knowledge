@@ -4,4 +4,4 @@ brewery:: [[Einstein's Decadence (Einstein's Decadence)]]
 abv:: 8
 
 # Log
-- [x] [[2023-01-14]] #do/drink/beer 👎. Too bitter, even with sweet things added
+- [x] [[2023-01]] #do/drink/beer 👎. Too bitter, even with sweet things added

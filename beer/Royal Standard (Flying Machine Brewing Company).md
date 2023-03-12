@@ -5,4 +5,4 @@ brewery:: [[Flying Machine Brewing Company]]
 abv:: 6.9
 
 # Log
-- [x] [[2022-03-04]] #do/drink/beer 👍
+- [x] [[2022-03]] #do/drink/beer 👍
