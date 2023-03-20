@@ -25,3 +25,6 @@ rating | meaning
 For example, I don't like many sour beers, so something that's amazing to people who like them might get a 👎 from me.
 
 I've also had to convert old 5-star ratings, so some of these might be different than I'd choose today.
+
+## Favorite beers
+[Favorite beer search | GitHub](https://github.com/search?q=repo%3Adannyrappleyea%2Fdrink-knowledge%20%5B%5Bbeer%5D%5D%20%F0%9F%91%8D%F0%9F%91%8D&type=code)
