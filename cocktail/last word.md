@@ -1,5 +1,7 @@
-is:: [[cocktail]]
-from:: 
+---
+is: "[[cocktail]]"
+from: 
+---
 
 # Intro
 Quite tart. The chartreuse makes it a love-it or hate-it kind of cocktail.

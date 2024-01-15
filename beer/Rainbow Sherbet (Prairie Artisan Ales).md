@@ -1,8 +1,9 @@
-is:: [[beer]]
-name:: Rainbow Sherbet
-type:: [[Sour - Fruited]]
-brewery:: [[Prairie Artisan Ales]]
-abv:: 5.2
-
+---
+is: "[[beer]]"
+name: Rainbow Sherbet
+beer-style: Sour - Fruited
+brewery: Prairie Artisan Ales
+abv: 5.2
+---
 # Log
 - [x] [[2022-05]] #do/drink/beer 👍 at [[Boxcar]]

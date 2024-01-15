@@ -1,5 +1,7 @@
-is:: [[note]]
-from:: [[liquor]]
+---
+is: "[[note]]"
+of: "[[liquor]]"
+---
 
 # Notes
 Inexpensive liquor options

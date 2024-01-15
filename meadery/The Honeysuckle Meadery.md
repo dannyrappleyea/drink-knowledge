@@ -1,2 +1,6 @@
-is:: [[meadery]]
-location:: 
+---
+is:
+  - "[[meadery]]"
+  - "[[restaurant]]"
+location: "[[Durham - North Carolina]]"
+---

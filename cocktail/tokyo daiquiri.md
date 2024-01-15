@@ -1,5 +1,8 @@
-is:: [[cocktail]]
-from:: https://www.liberandcompany.com/collections/recipes/products/tokyo-daiquiri
+---
+is:
+  - "[[cocktail]]"
+sources: https://www.liberandcompany.com/collections/recipes/products/tokyo-daiquiri
+---
 
 # Intro
 Soy sauce and fiery ginger make an interesting combination.

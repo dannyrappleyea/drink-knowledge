@@ -1,7 +1,10 @@
-is:: [[beer]]
-type:: [[IPA - Imperial - Double]]
-brewery:: [[Fullsteam]]
-abv:: 8.3
+---
+is:
+  - "[[beer]]"
+beer-style: IPA - Imperial - Double
+brewery: "[[Fullsteam]]"
+abv: 8.3
+---
 
 # Notes
 - Honey IPA

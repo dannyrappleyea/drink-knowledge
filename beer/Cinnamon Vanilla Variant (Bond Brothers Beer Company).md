@@ -1,8 +1,9 @@
-is:: [[beer]]
-name:: Cinnamon Vanilla Variant
-type:: [[Stout - Imperial - Double]]
-brewery:: [[Bond Brothers Beer Company]]
-abv:: 10.5
-
+---
+is: "[[beer]]"
+name: Cinnamon Vanilla Variant
+beer-style: Stout - Imperial / Double
+brewery: Bond Brothers Beer Company
+abv: 10.5
+---
 # Log
 - [x] [[2017-07]] #do/drink/beer 👍👍

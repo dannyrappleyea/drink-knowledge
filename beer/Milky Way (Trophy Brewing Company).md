@@ -1,9 +1,10 @@
-is:: [[beer]]
-name:: Milky Way
-type:: [[Stout - Milk - Sweet]]
-brewery:: [[Trophy Brewing Company]]
-abv:: 5.3
-
+---
+is: "[[beer]]"
+name: Milky Way
+beer-style: Stout - Milk - Sweet
+brewery: Trophy Brewing Company
+abv: 5.3
+---
 # Log
 - [x] [[2016-01]] #do/drink/beer 👍
 - [x] [[2016-08]] #do/drink/beer 👍

@@ -1,8 +1,11 @@
-is:: [[cider]]
-name:: Mischief Maker (Pomegranate)
-type:: [[Cider - Traditional - Apfelwein]]
-brewery:: [[Schilling Cider]]
-abv:: 6.6
+---
+is:
+  - "[[cider]]"
+name: Mischief Maker (Pomegranate)
+cider-style: Cider - Traditional - Apfelwein
+cidery: Schilling Cider
+abv: 6.6
+---
 
 # Log
 - [x] [[2017-02]] #do/drink/cider 👍

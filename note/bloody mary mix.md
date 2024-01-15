@@ -1,5 +1,7 @@
-is:: [[note]]
-from:: [[cocktail]]
+---
+is: "[[note]]"
+of: "[[cocktail]]"
+---
 
 # Ingredients
 * 6 oz can tomato paste

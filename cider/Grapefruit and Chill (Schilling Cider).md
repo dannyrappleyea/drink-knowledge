@@ -1,8 +1,11 @@
-is:: [[cider]]
-name:: Grapefruit and Chill
-type:: [[Cider - Traditional - Apfelwein]]
-brewery:: [[Schilling Cider]]
-abv:: 6
+---
+is:
+  - "[[cider]]"
+name: Grapefruit and Chill
+cider-style: Cider - Traditional - Apfelwein
+cidery: Schilling Cider
+abv: 6
+---
 
 # Log
 - [x] [[2017-06]] #do/drink/cider 👍

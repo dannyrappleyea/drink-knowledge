@@ -1,5 +1,7 @@
-is:: [[cocktail]]
-from:: 
+---
+is:
+  - "[[cocktail]]"
+---
 
 # Intro
 It's a healthy cocktail with lots of veggies, right?

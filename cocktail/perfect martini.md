@@ -1,8 +1,12 @@
-is:: [[cocktail]]
-from:: [Perfect Martini | Diffords Guide](https://www.diffordsguide.com/cocktails/recipe/1509/perfect-martini)
+---
+is:
+  - "[[cocktail]]"
+sources:
+  - https://www.diffordsguide.com/cocktails/recipe/1509/perfect-martini
+---
 
 # Intro
-Love sweet vermouth, so 
+Love sweet vermouth, so...
 
 # Ingredients
 * 1 1/2 oz gin

@@ -1,9 +1,10 @@
 ---
+is:
+  - "[[cider]]"
+cider-style: Cider - Dry
+cidery: Flat Rock Cider Company
 abv: 6
 ---
-is:: [[cider]]
-type:: [[Cider - Dry]]
-cidery:: [[Flat Rock Cider Company]]
 
 # Drinks
 - [x] [[2022-05]] #do/drink/cider 👍 at [[Urban Axes]].

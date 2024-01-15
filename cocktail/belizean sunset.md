@@ -1,5 +1,7 @@
-is:: [[cocktail]]
-from:: 
+---
+is:
+  - "[[cocktail]]"
+---
 
 # Intro
 An attempt to recreate a long-forgotten recipe from a Belizean resort.

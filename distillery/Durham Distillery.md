@@ -1,3 +1,7 @@
-is:: [[distillery]]
-location:: [[Durham (North Carolina)]]
-equals:: https://durhamdistillery.com/
+---
+is:
+  - "[[distillery]]"
+in: "[[Durham - North Carolina]]"
+urls:
+  - https://durhamdistillery.com/
+---

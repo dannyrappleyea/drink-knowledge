@@ -1,8 +1,10 @@
-is:: [[cider]]
-name:: Cherry Tart
-type:: [[Cider - Other Fruit]]
-brewery:: [[Bull City Ciderworks]]
-abv:: 6
+---
+is: "[[cider]]"
+name: Cherry Tart
+cider-style: Cider - Other Fruit
+cidery: "[[Bull City Ciderworks]]"
+abv: 6
+---
 
 # Log
 - [x] [[2017-02]] #do/drink/cider 👍

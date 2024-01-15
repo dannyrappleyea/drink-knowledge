@@ -1,9 +1,12 @@
-is:: [[cocktail]]
-from:: [Friday Cocktail Hour: The Palmetto - Ruhlman](https://ruhlman.com/the-palmetto/)
-from:: [[manhattan]]
+---
+is:
+  - "[[cocktail]]"
+sources:
+  - https://ruhlman.com/the-palmetto/
+---
 
 # Intro
-Basically a Manhattan with rum
+- Variation of a [[manhattan]] using rum
 
 # Ingredients
 * 2 ounces barrel aged rum

@@ -1,8 +1,9 @@
-is:: [[beer]]
-name:: Reverence of the Wren
-type:: [[Stout - Imperial - Double]]
-brewery:: [[Burial Beer Co.]]
-abv:: 10
-
+---
+is: "[[beer]]"
+name: Reverence of the Wren
+beer-style: Stout - Imperial / Double
+brewery: Burial Beer Co.
+abv: 10
+---
 # Log
 - [x] [[2019-04]] #do/drink/beer 👍

@@ -1,5 +1,7 @@
-is:: [[cocktail]]
-from:: 
+---
+is:
+  - "[[cocktail]]"
+---
 
 # Intro
 Does a white russian need an introduction?

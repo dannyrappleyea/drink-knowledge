@@ -1,8 +1,9 @@
-is:: [[beer]]
-name:: Everybody Get Your Roll On
-type:: [[Sour - Smoothie - Pastry]]
-brewery:: [[Newgrass Brewing Co]]
-abv:: 7
-
+---
+is: "[[beer]]"
+name: Everybody Get Your Roll On
+beer-style: Sour - Smoothie - Pastry
+brewery: Newgrass Brewing Co
+abv: 7
+---
 # Log
 - [x] [[2022-04]] #do/drink/beer 👍

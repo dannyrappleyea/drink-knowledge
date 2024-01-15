@@ -1,5 +1,7 @@
-is:: [[note]]
-from:: [[cocktail]]
+---
+is: "[[note]]"
+of: "[[cocktail]]"
+---
 
 # Notes
 Can you make several at once and store in the freezer for quick cocktails?

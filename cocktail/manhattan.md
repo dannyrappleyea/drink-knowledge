@@ -1,5 +1,7 @@
-is:: [[cocktail]]
-from:: 
+---
+is:
+  - "[[cocktail]]"
+---
 
 # Intro
 The classic manhattan

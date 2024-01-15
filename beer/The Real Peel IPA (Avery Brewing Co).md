@@ -1,8 +1,10 @@
-is:: [[beer]]
-name:: The Real Peel IPA
-type:: [[IPA - American]]
-brewery:: [[Avery Brewing Co]]
-abv:: 6.3
-
+---
+is:
+  - "[[beer]]"
+name: The Real Peel IPA
+beer-style: IPA - American
+brewery: Avery Brewing Co
+abv: 6.3
+---
 # Log
 - [x] [[2017-06]] #do/drink/beer 👍👍

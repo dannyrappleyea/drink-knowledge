@@ -1,5 +1,7 @@
-is:: [[note]]
-from:: [[cocktail]]
+---
+is: "[[note]]"
+of: "[[cocktail]]"
+---
 
 # Notes
 Looking at recipes that might be worth trying

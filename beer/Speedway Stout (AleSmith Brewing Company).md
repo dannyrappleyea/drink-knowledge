@@ -1,9 +1,11 @@
-is:: [[beer]]
-name:: Speedway Stout
-type:: [[Stout - Imperial - Double Coffee]]
-brewery:: [[AleSmith Brewing Company]]
-abv:: 12
-
+---
+is:
+  - "[[beer]]"
+name: Speedway Stout
+beer-style: Stout - Imperial / Double Coffee
+brewery: AleSmith Brewing Company
+abv: 12
+---
 # Log
 - [x] [[2015-11]] #do/drink/beer 👍
 - [x] [[2016-01]] #do/drink/beer 👍

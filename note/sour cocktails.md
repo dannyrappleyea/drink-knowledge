@@ -1,5 +1,7 @@
-is:: [[note]]
-from:: [[cocktail]]
+---
+is: "[[note]]"
+of: "[[cocktail]]"
+---
 
 # Notes
 * [The Golden Ratio of Sour Cocktails - Runamok Maple](https://runamokmaple.com/blog/the-golden-ratio-of-sour-cocktails/)

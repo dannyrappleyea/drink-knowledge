@@ -1,5 +1,7 @@
-is:: [[cocktail]]
-from:: 
+---
+is:
+  - "[[cocktail]]"
+---
 
 # Intro
 Tasty, tart, ice-cold drink.

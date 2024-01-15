@@ -1,8 +1,11 @@
-is:: [[cider]]
-name:: Blackberry Cider
-type:: [[Cider - Traditional - Apfelwein]]
-brewery:: [[Crown Valley Brewing]]
-abv:: 5
+---
+is:
+  - "[[cider]]"
+name: Blackberry Cider
+cider-style: Cider - Traditional - Apfelwein
+cidery: Crown Valley Brewing
+abv: 5
+---
 
 # Log
 - [x] [[2019-03]] #do/drink/cider 👍

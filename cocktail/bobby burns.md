@@ -1,5 +1,8 @@
-is:: [[cocktail]]
-from:: [Bobby Burns Cocktail (Craddock’s Recipe)](https://www.diffordsguide.com/cocktails/recipe/280/bobby-burns-cocktail-craddocks-recipe)
+---
+is:
+  - "[[cocktail]]"
+sources: https://www.diffordsguide.com/cocktails/recipe/280/bobby-burns-cocktail-craddocks-recipe
+---
 
 # Intro
 Similar to a [[manhattan]], but the Benedictine adds another level of complexity.

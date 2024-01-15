@@ -1,8 +1,10 @@
-is:: [[cider]]
-name:: Steep South
-type:: [[Cider - Traditional - Apfelwein]]
-brewery:: [[Bull City Ciderworks]]
-abv:: 6
+---
+is: "[[cider]]"
+name: Steep South
+cider-style: Cider - Traditional - Apfelwein
+cidery: "[[Bull City Ciderworks]]"
+abv: 6
+---
 
 # Log
 - [x] [[2017-05]] #do/drink/cider 👍

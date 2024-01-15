@@ -1,8 +1,11 @@
-is:: [[cocktail]]
-from:: [[perfect martini]]
+---
+is:
+  - "[[cocktail]]"
+---
 
 # Intro
-Gin seems to get lost in a perfect martini. Using navy-strength gin brings it back (perhaps even too much?)
+- Variation of a [[perfect martini]]
+- Gin seems to get lost in a perfect martini. Using navy-strength gin brings it back (perhaps even too much?)
 
 # Ingredients
 * 2 oz navy-strength gin
@@ -20,6 +23,3 @@ Gin seems to get lost in a perfect martini. Using navy-strength gin brings it ba
 - 1.5 oz navy strength gin, 0.75 oz gin, 1.5 oz dry vermouth, 0.75 oz sweet vermouth, 1 tsp marachino cherry syrup. Two sweet and muddied
 - 1 oz navy strength gin, 0.75 oz dry vermouth, 0.5 oz sweet vermouth. gin still seems to have to sharp a bite.
 - 1 oz navy strength gin, 1 oz gin, 1 oz dry vermouth, 1 oz sweet vermouth. Quite nice
-
-# References
-- [Perfect martini | Diffords](https://www.diffordsguide.com/cocktails/recipe/1509/perfect-martini)

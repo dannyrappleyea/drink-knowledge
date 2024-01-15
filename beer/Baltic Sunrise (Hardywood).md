@@ -1,7 +1,9 @@
-is:: [[beer]]
-type:: [[Porter - Baltic]]
-brewery:: [[Hardywood Park Craft Brewery]]
-abv:: 9.4
+---
+is: "[[beer]]"
+beer-style: Porter - Baltic
+brewery: Hardywood Park Craft Brewery
+abv: 9.4
+---
 
 # Notes
 - Coffee porter

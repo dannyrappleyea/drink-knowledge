@@ -1,5 +1,7 @@
-is:: [[cocktail]]
-from:: 
+---
+is:
+  - "[[cocktail]]"
+---
 
 # Intro
 Recreating the drink `Violet, You're Turning Violet` from [Aperitif](https://aperitifnc.com/). See notes for sourcing ingredients

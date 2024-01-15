@@ -1,3 +1,9 @@
-is:: [[repository]]
-from:: https://github.com/dannyrappleyea/conceptual-knowledge-drinks
-equals:: https://github.com/dannyrappleyea/drink-knowledge
+---
+is:
+  - "[[repository]]"
+of:
+  - "[[knowledge]]"
+sources:
+  - https://github.com/dannyrappleyea/conceptual-knowledge-drinks
+  - https://github.com/dannyrappleyea/drink-knowledge
+---

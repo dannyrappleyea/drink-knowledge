@@ -1,5 +1,7 @@
-is:: [[note]]
-from:: [[cocktail]]
+---
+is: "[[note]]"
+of: "[[cocktail]]"
+---
 
 # Notes
 ## Local

@@ -1,8 +1,11 @@
-is:: [[cider]]
-name:: Blackberry Crumble
-type:: [[Cider - Other Fruit]]
-cidery:: [[Red Clay Ciderworks]]
-abv:: 6.5
+---
+is:
+  - "[[cider]]"
+name: Blackberry Crumble
+cider-style: Cider - Other Fruit
+cidery: Red Clay Ciderworks
+abv: 6.5
+---
 
 # Log
 - [x] [[2022-04]] #do/drink/cider 👍
