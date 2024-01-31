@@ -1,9 +1,0 @@
----
-is: "[[beer]]"
-name: Prioress
-beer-style: Stout - Milk - Sweet
-brewery: Southern Pines Brewing Company
-abv: 5.6
----
-# Log
-- [x] [[2017-02]] #do/drink/beer 👍

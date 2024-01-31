@@ -1,9 +1,0 @@
----
-is: "[[beer]]"
-name: IPA
-beer-style: IPA - American
-brewery: Ponysaurus Brewing Co.
-abv: 6.3
----
-# Log
-- [x] [[2015-10]] #do/drink/beer 👍

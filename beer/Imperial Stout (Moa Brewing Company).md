@@ -1,9 +1,0 @@
----
-is: "[[beer]]"
-name: Imperial Stout
-beer-style: Stout - Imperial / Double
-brewery: Moa Brewing Company
-abv: 10.2
----
-# Log
-- [x] [[2018-12]] #do/drink/beer 👍👍

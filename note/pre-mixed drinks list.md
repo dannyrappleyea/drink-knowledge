@@ -9,7 +9,7 @@ aliases:
 # Notes
 - Notes about pre-mixed alcoholic drinks
 
-## Drinks
+## Notes
 - Evan Williams Eggnog 👍
 - Old New England Pumpkin Spiced Nog 🤞 - unremarkably drinkable
 - Pennsylvania Dutch Salted Caramel Cream 👍👍 - sweet, lower alcohol, yummy

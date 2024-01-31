@@ -1,9 +1,0 @@
----
-is: "[[beer]]"
-name: Hop Burglar
-beer-style: IPA - American
-brewery: Wicked Weed Brewing
-abv: 7.6
----
-# Log
-- [x] [[2016-04]] #do/drink/beer 👍

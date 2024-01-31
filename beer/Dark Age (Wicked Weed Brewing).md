@@ -1,9 +1,0 @@
----
-is: "[[beer]]"
-name: Dark Age
-beer-style: Stout - Imperial / Double
-brewery: Wicked Weed Brewing
-abv: 12
----
-# Log
-- [x] [[2016-04]] #do/drink/beer 👍👍
