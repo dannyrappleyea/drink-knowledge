@@ -1,5 +1,5 @@
 ---
-is: "[[list]]"
+is_a: "[[list]]"
 of: "[[liqueur]]"
 ---
 
