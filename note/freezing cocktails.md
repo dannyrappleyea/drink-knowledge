@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: "[[cocktail]]"
+topics: "[[cocktail]]"
 ---
 
 # Notes

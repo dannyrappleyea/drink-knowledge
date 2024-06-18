@@ -1,6 +1,6 @@
 ---
 is_a: "[[list]]"
-of: "[[liqueur]]"
+topics: "[[liqueur]]"
 ---
 
 # About

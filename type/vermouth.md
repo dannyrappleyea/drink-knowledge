@@ -1,7 +1,7 @@
 ---
 is_a:
   - "[[type]]"
-of:
+topics:
   - "[[wine]]"
 sources:
   - https://www.diffordsguide.com/beer-wine-spirits/category/52/vermouth

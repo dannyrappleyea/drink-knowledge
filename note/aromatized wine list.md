@@ -3,7 +3,7 @@ is_a:
   - "[[note]]"
 urls:
   - https://en.wikipedia.org/wiki/Aromatised_wine
-of:
+topics:
   - "[[wine]]"
 ---
 # Notes

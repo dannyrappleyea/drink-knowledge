@@ -1,7 +1,7 @@
 ---
 is_a:
   - "[[note]]"
-of:
+topics:
   - "[[cocktail]]"
 aliases:
   - eggnog

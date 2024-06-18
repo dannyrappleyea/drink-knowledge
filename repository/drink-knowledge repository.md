@@ -1,7 +1,7 @@
 ---
 is_a:
   - "[[repository]]"
-of:
+topics:
   - "[[knowledge]]"
 sources:
   - https://github.com/dannyrappleyea/conceptual-knowledge-drinks
